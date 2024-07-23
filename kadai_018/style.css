@@ -23,7 +23,7 @@
   width: 200px;
   height: 200px;
   background-color: #87ceeb;
-  position: relative;
+  position: absolute;
   top: 100px;
   left: 100px;
 }
